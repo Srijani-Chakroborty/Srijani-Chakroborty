@@ -9,3 +9,4 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I spend almost 8 hours listening everyday.
 
+<img src="https://github-readme-stats.vercel.app/api?username=Srijani-Chakroborty&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
