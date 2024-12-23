@@ -10,5 +10,5 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I spend almost 8 hours listening everyday.
 
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srijani-Chakroborty&langs_count=8"> <img align="right" src="https://github-readme-stats.vercel.app/api?username=Srijani-Chakroborty&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919"></a>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srijani-Chakroborty&langs_count=8"> <img align="right" src="![Srijani-Chakroborty's Stats](https://github-readme-stats.vercel.app/api?username=Srijani-Chakroborty&theme=buefy&show_icons=true&hide_border=true&count_private=true)"></a>
 
