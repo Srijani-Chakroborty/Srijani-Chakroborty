@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning Angular, React and Node.js.
 - 💬 Ask me about web development and any tech related stuffs.
 - 📫 How to reach me:<br/>
- [LinkedIn](https://www.linkedin.com/in/srijani-chakraborty-a0b42b1a0)
- [Gmail](chakrobortysrijani2001@gmail.com)
+ [LinkedIn](https://www.linkedin.com/in/srijani-chakraborty-a0b42b1a0)<br/>
+ [Gmail](chakrobortysrijani2001@gmail.com)<br/>
  [Instagram](https://www.instagram.com/srijanichakroborty/)
 
 - 😄 Pronouns: She/Her
